@@ -1,11 +1,15 @@
-## E-PORTFOLIO WEBSITE -- FRONTENDSIMPLIFIED
+## E-PORTFOLIO WEBSITE
 
 
 ## General info
-This project is a portfolio website made following the instructions from the frontendsimplified's course
+This project is a portfolio website that i made when i was learning about css and html
 	
 ## Technologies
 Project is created with:
 * HTML5
 * CSS
+
+## Images
+I got the images for the website from:
+* undraw.co
 	
